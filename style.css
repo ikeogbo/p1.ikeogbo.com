@@ -6,3 +6,10 @@
 		border: 1px solid gray;
 		padding: 10px 10px 10px 10px;
 		}
+footer {
+	width:60%;
+	height:80px;
+	position:absolute;
+	bottom:0;
+	left:20%;
+	background: red;}
